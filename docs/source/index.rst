@@ -19,6 +19,7 @@ Contents
 .. toctree::
 
    guideForInstallation
+   meaningOfDimensions
    usage
    api
 
