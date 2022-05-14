@@ -1,4 +1,4 @@
-Meaning of seven numbers in 'dimensions'
+Meaning of seven numbers in dimensions
 ===================================
 
 When you see 
