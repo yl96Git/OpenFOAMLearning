@@ -20,6 +20,7 @@ Contents
 
    guideForInstallation
    meaningOfDimensions
+   Reactions
    usage
    api
 
